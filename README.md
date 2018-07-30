@@ -1,11 +1,7 @@
 # Blitz_Labs
-This is where the fun blitz stuff happens (R&amp;D, experiments, etc.)
+This is where the fun blitz stuff should have happened (R&amp;D, experiments, etc.) but that never took off, which is why it is now archived.
 
-Let’s test and debug new and experimental features. 
-
-An ePub 3.0.1 file is provided in order to test in Reading Systems. 
-
-The file is systematically tested on Reading Systems listed in the repo’s Readme.
+Please go to the [main Blitz project](https://github.com/FriendsOfEpub/Blitz) to keep up with R&amp;D.
 
 **See `assets` folder for preview.**
 
